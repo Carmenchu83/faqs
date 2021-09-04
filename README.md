@@ -10,29 +10,29 @@ Si tienes una pregunta que crees que debería aparece aquí, por favor [abre una
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [Lo Más Preguntado]()
-  - [¿Qué tema usas en VSCode?]()
-  - [¿Qué fuente utilizas en VSCode?]()
-  - [¿Qué teclado usas?]()
-  - [¿Qué estudias?]()
-- [Twitch / Stream]()
-  - [¿Cuál es tú horario?]()
-  - [¿Cuáles son las reglas del chat?]()
-  - [¿Cuáles son los comandos disponibles en el chat?]()
-  - [¿Qué son POGGERS, PogY, OMEGALUL, etc que veo en el chat?]()
-  - [¿Qué son los puntos del canal / potatoeuros?]()
-  - [¿Este stream estará disponible más tarde?]()
-  - [¿Puedo ser mod?]()
-  - [¿Cuánto tiempo llevas haciendo esto?]()
-- [Personal]()
-  - [¿Eres autodidacta?]()
-  - [¿Cuánto tiempo llevas programando?]()
-  - [¿Cuántos años tienes?]()
-- [Setup / PC]()
-  - [¿Qué usas para transmitir en vivo?]()
-  - [¿Cuáles son los componentes de tu PC?]()
-  - [¿Cuáles son tus periféricos]()
-  - [¿Qué navegador usas?¿Qué extensiones usas?]()
+- [Lo Más Preguntado](https://github.com/Carmenchu83/faqs/blob/main/README.md#los-m%C3%A1s-preguntado)
+  - [¿Qué tema usas en VSCode?](https://github.com/Carmenchu83/faqs/blob/main/README.md#qu%C3%A9-tema-usas-en-vscode)
+  - [¿Qué fuente utilizas en VSCode?](https://github.com/Carmenchu83/faqs/blob/main/README.md#qu%C3%A9-fuente-utilizas-en-vscode)
+  - [¿Qué teclado usas?](https://github.com/Carmenchu83/faqs/blob/main/README.md#qu%C3%A9-teclado-usas)
+  - [¿Qué estudias?](https://github.com/Carmenchu83/faqs/blob/main/README.md#qu%C3%A9-estudias)
+- [Twitch / Stream](https://github.com/Carmenchu83/faqs/blob/main/README.md#twitch--stream)
+  - [¿Cuál es tú horario?](https://github.com/Carmenchu83/faqs/blob/main/README.md#cu%C3%A1l-es-t%C3%BA-horario)
+  - [¿Cuáles son las reglas del chat?](https://github.com/Carmenchu83/faqs/blob/main/README.md#cu%C3%A1les-son-las-reglas-del-chat)
+  - [¿Cuáles son los comandos disponibles en el chat?](https://github.com/Carmenchu83/faqs/blob/main/README.md#cu%C3%A1les-son-los-comandos-disponibles-en-el-chat)
+  - [¿Qué son POGGERS, PogY, OMEGALUL, etc que veo en el chat?](https://github.com/Carmenchu83/faqs/blob/main/README.md#qu%C3%A9-son-poggers-pogy-omegalul-etc-que-veo-en-el-chat)
+  - [¿Qué son los puntos del canal / potatoeuros?](https://github.com/Carmenchu83/faqs/blob/main/README.md#qu%C3%A9-son-los-puntos-del-canal--potatoeuros)
+  - [¿Este stream estará disponible más tarde?](https://github.com/Carmenchu83/faqs/blob/main/README.md#este-stream-estar%C3%A1-disponible-m%C3%A1s-tarde)
+  - [¿Puedo ser mod?](https://github.com/Carmenchu83/faqs/blob/main/README.md#puedo-ser-mod)
+  - [¿Cuánto tiempo llevas haciendo esto?](https://github.com/Carmenchu83/faqs/blob/main/README.md#cu%C3%A1nto-tiempo-llevas-haciendo-esto)
+- [Personal](https://github.com/Carmenchu83/faqs/blob/main/README.md#personal)
+  - [¿Eres autodidacta?](https://github.com/Carmenchu83/faqs/blob/main/README.md#eres-autodidacta)
+  - [¿Cuánto tiempo llevas programando?](https://github.com/Carmenchu83/faqs/blob/main/README.md#cu%C3%A1nto-tiempo-llevas-programando)
+  - [¿Cuántos años tienes?](https://github.com/Carmenchu83/faqs/blob/main/README.md#cu%C3%A1ntos-a%C3%B1os-tienes)
+- [Setup / PC](https://github.com/Carmenchu83/faqs/blob/main/README.md#setup--pc)
+  - [¿Qué usas para transmitir en vivo?](https://github.com/Carmenchu83/faqs/blob/main/README.md#qu%C3%A9-usas-para-transmitir-en-vivo)
+  - [¿Cuáles son los componentes de tu PC?](https://github.com/Carmenchu83/faqs/blob/main/README.md#cu%C3%A1les-son-los-componentes-de-tu-pc)
+  - [¿Cuáles son tus periféricos](https://github.com/Carmenchu83/faqs/blob/main/README.md#cu%C3%A1les-son-tus-perif%C3%A9ricos)
+  - [¿Qué navegador usas?¿Qué extensiones usas?](https://github.com/Carmenchu83/faqs/blob/main/README.md#qu%C3%A9-navegador-usasqu%C3%A9-extensiones-usas)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -152,13 +152,13 @@ El software que uso para transmitir en vivo es [OBS.Live](https://streamelements
 - **HDD**: Seagate BarraCuda 3.5" 2TB SATA 3
 
 ## ¿Cuáles son tus periféricos?
-🎧 [Artics Pro Wireless](https://amzn.to/3n458pc)
-🎙️ [ElGato Wave:3](https://amzn.to/3zMKmhh)
-🖱️ [Razer DeathAdder Elite](https://amzn.to/3DMbCPk)
-⌨️ [Razer Blackwidow Elite](https://amzn.to/3jMoUn3)
-📷 [Logitech C922 PRO HD Stream Webcam](https://amzn.to/3zMKrl5)
-🛣  [Logitech G840](https://amzn.to/3n3SIgM)
-🪑 [Drift DR400 Roja](https://amzn.to/38Fc8QC)
+- 🎧 [Artics Pro Wireless](https://amzn.to/3n458pc)
+- 🎙️ [ElGato Wave:3](https://amzn.to/3zMKmhh)
+- 🖱️ [Razer DeathAdder Elite](https://amzn.to/3DMbCPk)
+- ⌨️ [Razer Blackwidow Elite](https://amzn.to/3jMoUn3)
+- 📷 [Logitech C922 PRO HD Stream Webcam](https://amzn.to/3zMKrl5)
+- 🛣  [Logitech G840](https://amzn.to/3n3SIgM)
+- 🪑 [Drift DR400 Roja](https://amzn.to/38Fc8QC)
 
 ## ¿Qué navegador usas?¿Qué extensiones usas?
 
